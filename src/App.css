@@ -459,12 +459,13 @@ video::-webkit-media-controls-panel {
   width: 46%;
   grid-template-columns: repeat(4, 1fr);
   align-items: center;
-  padding: 1.2rem 2rem;
-  column-gap: 40px;
+  padding: 1.2rem 2.5rem;
+  column-gap: 10%;
   background: var(--app-btn-bg);
   color: var(--app-btn-color);
   border-radius: 8.13426px;
 }
+
 
 .poweredBy-first-child {
   justify-self: center;
@@ -474,7 +475,7 @@ video::-webkit-media-controls-panel {
 .poweredBySubContainer {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   width: 6rem;
 }
 

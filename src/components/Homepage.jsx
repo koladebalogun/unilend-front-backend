@@ -70,6 +70,7 @@ export default function Homepage() {
           <source src={heroSlider} type="video/mp4" />
         </video>
         <div className="poweredByContainer">
+          
           <div className="poweredBy-first-child">
             <h1>Powered By</h1>
           </div>

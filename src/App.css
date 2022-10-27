@@ -456,10 +456,11 @@ video::-webkit-media-controls-panel {
   align-items: center;
   justify-content: space-evenly; */
   display: grid;
-  width: 42%;
+  width: 46%;
   grid-template-columns: repeat(4, 1fr);
   align-items: center;
-  padding: 1.2rem 0;
+  padding: 1.2rem 2rem;
+  column-gap: 40px;
   background: var(--app-btn-bg);
   color: var(--app-btn-color);
   border-radius: 8.13426px;

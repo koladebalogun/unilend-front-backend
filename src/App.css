@@ -243,7 +243,7 @@ video::-webkit-media-controls-panel {
 .header {
   display: flex;
   flex-wrap: nowrap;
-  gap: 2.5rem;
+  gap: 2rem;
   align-items: center;
   justify-content: space-evenly;
   list-style-type: none;
@@ -257,7 +257,10 @@ video::-webkit-media-controls-panel {
   cursor: pointer;
   display: flex;
   align-items: center;
+  width: 100px;
+
 }
+
 
 .header li a:active {
   text-decoration: none;

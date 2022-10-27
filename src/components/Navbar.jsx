@@ -79,7 +79,19 @@ export default function Navbar() {
                   rel="noopener noreferrer"
                   style={{ color: "#fff", textDecoration: "none" }}
                 >
-                  App
+                  V1 App
+                </a>
+              </button>
+            </div>
+            <div className="btnContainer">
+              <button className="appBtn">
+                <a
+                  href="https://testnet.unilend.finance/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ color: "#fff", textDecoration: "none" }}
+                >
+                  V2 App
                 </a>
               </button>
             </div>

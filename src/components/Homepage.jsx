@@ -83,7 +83,7 @@ export default function Homepage() {
           </div>
           <div className="poweredBySubContainer">
             <img src={binance} alt="" id="bscLogo" />
-            <h1>Binance</h1>
+            <h1>BNB</h1>
           </div>
         </div>
       </div>

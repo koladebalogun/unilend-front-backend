@@ -150,7 +150,7 @@ export default function Homepage() {
 
             <div className="explore-dapp-button">
               <a
-                href="https://unilendv2-testnet.netlify.app/"
+                href="https://testnet.unilend.finance/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: "#0045ff", textDecoration: "none" }}

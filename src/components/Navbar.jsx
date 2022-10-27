@@ -74,7 +74,7 @@ export default function Navbar() {
             <div className="btnContainer">
               <button className="appBtn">
                 <a
-                  href="https://unilendv2-testnet.netlify.app/"
+                  href="https://app.unilend.finance/lend"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{ color: "#fff", textDecoration: "none" }}

@@ -1303,7 +1303,6 @@ div.highway-slider ul.highway-lane li.highway-car {
   padding: 250px 10rem 0rem 10rem;
   height: 100%;
   width: 100%;
-  /* overflow: hidden; */
 }
 
 .container-title {
@@ -1782,7 +1781,6 @@ div.highway-slider ul.highway-lane li.highway-car {
   justify-content: center;
   align-items: center;
   gap: 4rem;
-  height: 200px;
   display: flex;
   margin-top: 126px;
   flex-wrap: wrap;

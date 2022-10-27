@@ -82,7 +82,7 @@ export default function Homepage() {
             <img src={polygonLogo} alt="" id="polyLogo" />
             <h1>Polygon</h1>
           </div>
-          <div className="poweredBySubContainer">
+          <div className="poweredBySubContainer last-child">
             <img src={binance} alt="" id="bscLogo" />
             <h1>BNB</h1>
           </div>

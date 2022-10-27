@@ -460,7 +460,7 @@ video::-webkit-media-controls-panel {
   grid-template-columns: repeat(4, 1fr);
   align-items: center;
   padding: 1.2rem 2.5rem;
-  column-gap: 10%;
+  column-gap: 7%;
   background: var(--app-btn-bg);
   color: var(--app-btn-color);
   border-radius: 8.13426px;
@@ -475,8 +475,8 @@ video::-webkit-media-controls-panel {
 .poweredBySubContainer {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
-  width: 6rem;
+  justify-content: center;
+  width: 100%;
 }
 
 .poweredBySubContainer h1 {
@@ -489,6 +489,7 @@ video::-webkit-media-controls-panel {
   margin: 0;
   font-weight: bold;
 }
+
 
 .colorText {
   color: var(--app-btn-bg);
